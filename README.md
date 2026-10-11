@@ -1,61 +1,112 @@
-# Hi, I'm Shreya Sankpal 👋
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:102a24,100:0d1117&height=150&section=header&text=Shreya%20Sankpal&fontSize=38&fontColor=3fb950&fontAlignY=45&animation=fadeIn)
 
-**Computer Engineering Student | Software Development | AI-Powered Applications**
+<div align="center">
 
-I'm a Computer Engineering student interested in building practical software products that address real-world problems. I enjoy turning ideas into functional applications, exploring AI-driven solutions, and continuously improving my software development skills through hands-on projects.
+`$ whoami`
 
-- 🔭 **Building:** [Steora](https://steora.vercel.app/) — an AI-powered travel planning platform.
-- 💡 **Interests:** Software Engineering, Artificial Intelligence, and Product Development.
-- 🎯 **Focus:** Building useful, scalable, and user-focused technology solutions.
-- 🤝 **Open to:** Software development internships, collaborative projects, and opportunities to learn and contribute.
+**Computer Engineering Student · Developer · Builder**
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=3FB950&center=true&vCenter=true&width=500&lines=building+things%2C+learning+as+I+go;turning+ideas+into+working+projects;one+commit+at+a+time" alt="Typing animation" />
 
-## 🚀 Featured Projects
-
-### Steora — AI-Powered Travel Planning
-
-*Plan smarter. Travel better. Replan when things change.*
-
-A travel planning platform designed to help users create more practical itineraries by considering travel preferences, budget constraints, accommodation options, and route information.
-
-- Personalized trip planning based on user preferences.
-- Budget feasibility analysis to identify cost-related constraints.
-- Travel information, accommodation options, and route visualization.
-- Development focused on adapting travel plans when constraints change.
-
-**[Live Demo](https://steora.vercel.app/) · [GitHub Repository](https://github.com/ShreyaSankpal/Steora)**
-
-### Spotify Clone — Frontend Development
-
-A Spotify-inspired web interface built to practise frontend development, page structure, styling, and user interface implementation.
-
-**[GitHub Repository](https://github.com/ShreyaSankpal/Spotify-Clone-)**
-
-### ZENPAY — Smart Payments
-
-A team project exploring a UPI-first digital payments experience with a focus on smarter spending, budgeting, and transaction protection.
-
-**Team:** Hacksmith
-
-**[Live Demo](https://zenpay-gamma.vercel.app/) · [GitHub Repository](https://github.com/Poojasharma472/zenpay)**
+</div>
 
 ---
 
-## 📊 GitHub Activity
+### `~/about-me`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyaSankpal&show_icons=true&hide_border=true&theme=transparent)
+```bash
+$ cat about.txt
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaSankpal&layout=compact&hide_border=true&theme=transparent)
+Hey, I'm Shreya — a Computer Engineering student who enjoys figuring out how things work and turning ideas into actual projects.
+
+Currently building software, exploring AI-powered applications, and learning by getting my hands dirty with code.
+
+```text
+[+] Interested in software engineering and AI
+[+] Learning through hands-on projects
+[+] Always looking for the next thing to build
+```
 
 ---
 
-## 🤝 Connect
+### `~/projects`
 
-**GitHub:** [@ShreyaSankpal](https://github.com/ShreyaSankpal)
+```bash
+$ ls -la ./projects
+```
 
-I'm interested in collaborating on meaningful projects, solving engineering challenges, and building technology that creates real-world value.
+**01 — [Steora](https://github.com/ShreyaSankpal/Steora)**
+
+An AI-powered travel planner focused on practical itineraries, budgets, routes, and adapting when plans change.
+
+`Next.js` · `TypeScript` · `AI`
+
+[Live Demo](https://steora.vercel.app/) · [Source Code](https://github.com/ShreyaSankpal/Steora)
 
 ---
 
-*Building through experimentation. Growing through engineering.*
+**02 — [PathNova](https://github.com/ShreyaSankpal/pathnova-career-compass)**
+
+An AI-powered career discovery platform helping students explore career options, understand skill gaps, and build personalized roadmaps.
+
+`React` · `TypeScript` · `Supabase`
+
+[Live Demo](https://pathnova-career-compass.vercel.app/) · [Source Code](https://github.com/ShreyaSankpal/pathnova-career-compass)
+
+---
+
+**03 — [Spotify Clone](https://github.com/ShreyaSankpal/Spotify-Clone-)**
+
+A Spotify-inspired frontend project built to practise web layouts, styling, and interface development.
+
+`HTML` · `CSS`
+
+[Source Code](https://github.com/ShreyaSankpal/Spotify-Clone-)
+
+---
+
+**04 — [ZENPAY](https://github.com/Poojasharma472/zenpay)**
+
+A team project exploring smarter digital payments through budgeting features and transaction protection.
+
+`Team Hacksmith`
+
+[Live Demo](https://zenpay-gamma.vercel.app/) · [Source Code](https://github.com/Poojasharma472/zenpay)
+
+---
+
+### `~/activity.log`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShreyaSankpal&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&rank_icon=github" height="155" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaSankpal&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" height="155" alt="Most-used languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ShreyaSankpal/ShreyaSankpal/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+
+<img src="https://komarev.com/ghpvc/?username=ShreyaSankpal&style=flat-square&color=238636&label=profile+visits" alt="Profile visits" />
+
+</div>
+
+---
+
+### `~/connect`
+
+```bash
+$ git remote -v
+```
+
+[GitHub](https://github.com/ShreyaSankpal) · [Explore my repositories](https://github.com/ShreyaSankpal?tab=repositories)
+
+```text
+$ echo "always building."
+always building._
+```
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:102a24,100:0d1117&height=100&section=footer)
