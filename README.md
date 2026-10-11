@@ -1,10 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:12372a&height=150&section=header&text=Shreya%20Sankpal&fontSize=38&fontColor=3fb950&animation=fadeIn&fontAlignY=38)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:4F46E5&height=160&section=header&text=Shreya%20Sankpal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
 <div align="center">
 
-**Computer Engineering Student · Software Development · AI**
+### Computer Engineering Student | Software Development | AI
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1800&color=3FB950&center=true&vCenter=true&width=500&lines=Learning+by+building;Turning+ideas+into+applications;Exploring+AI+and+software+engineering" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3500&pause=1500&color=818CF8&center=true&vCenter=true&width=600&lines=Building+projects+that+solve+real+problems;Exploring+AI+and+software+development;Learning+by+building+real+applications" alt="Typing animation" />
+
+<img src="https://komarev.com/ghpvc/?username=ShreyaSankpal&style=flat-square&color=4F46E5&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -12,50 +14,12 @@
 
 ## 👋 About Me
 
-I'm a Computer Engineering student interested in building practical software products that solve real-world problems. I enjoy turning ideas into working applications, exploring AI-driven solutions, and improving my development skills through hands-on projects.
+I'm a Computer Engineering student interested in building practical software products that address real-world problems. I enjoy turning ideas into functional applications, exploring AI-driven solutions, and improving my software development skills through hands-on projects.
 
 - 🔭 **Building:** [Steora](https://steora.vercel.app/) — an AI-powered travel planning platform.
 - 💡 **Interests:** Software Engineering, Artificial Intelligence, and Product Development.
-- 🎯 **Focus:** Creating useful, user-focused technology.
-- 🤝 **Open to:** Software internships and collaborative projects.
-
----
-
-## 🚀 Featured Projects
-
-### 01. [Steora — AI Travel Planning](https://github.com/ShreyaSankpal/Steora)
-
-*Plan smarter. Travel better. Replan when things change.*
-
-An AI-powered travel planning platform that considers preferences, budgets, accommodation options, and routes to help users plan practical trips.
-
-`Next.js` `TypeScript` `AI`
-
-[Live Demo](https://steora.vercel.app/) · [Source Code](https://github.com/ShreyaSankpal/Steora)
-
-### 02. [PathNova — Career Compass](https://github.com/ShreyaSankpal/pathnova-career-compass)
-
-An AI-powered career discovery platform that helps students explore career paths, identify skill gaps, and discover learning roadmaps.
-
-`React` `TypeScript` `Supabase`
-
-[Live Demo](https://pathnova-career-compass.vercel.app/) · [Source Code](https://github.com/ShreyaSankpal/pathnova-career-compass)
-
-### 03. [Spotify Clone](https://github.com/ShreyaSankpal/Spotify-Clone-)
-
-A Spotify-inspired web interface built to practise frontend development, layouts, and styling.
-
-`HTML` `CSS`
-
-[Source Code](https://github.com/ShreyaSankpal/Spotify-Clone-)
-
-### 04. [ZENPAY — Smart Payments](https://github.com/Poojasharma472/zenpay)
-
-A team project exploring UPI payments, smarter budgeting, spending insights, and transaction protection.
-
-**Team:** Hacksmith
-
-[Live Demo](https://zenpay-gamma.vercel.app/) · [Source Code](https://github.com/Poojasharma472/zenpay)
+- 🎯 **Focus:** Building useful, scalable, and user-focused technology.
+- 🤝 **Open to:** Software development internships and collaborative projects.
 
 ---
 
@@ -63,9 +27,47 @@ A team project exploring UPI payments, smarter budgeting, spending insights, and
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nextjs,tailwind,supabase,git,github,vscode&perline=6" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nextjs,tailwind,supabase,git,github,vscode&perline=6" alt="Technologies and tools" />
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+### ✈️ [Steora — AI-Powered Travel Planning](https://github.com/ShreyaSankpal/Steora)
+
+*Plan smarter. Travel better. Replan when things change.*
+
+An AI-powered travel planning platform designed around user preferences, budget constraints, accommodation options, and route information.
+
+**Tech:** `Next.js` · `TypeScript` · `AI`
+
+[Live Demo](https://steora.vercel.app/) · [GitHub Repository](https://github.com/ShreyaSankpal/Steora)
+
+### 🧭 [PathNova — Career Compass](https://github.com/ShreyaSankpal/pathnova-career-compass)
+
+An AI-powered career discovery platform that helps students explore career paths, identify skill gaps, and discover personalized learning roadmaps.
+
+**Tech:** `React` · `TypeScript` · `Supabase`
+
+[Live Demo](https://pathnova-career-compass.vercel.app/) · [GitHub Repository](https://github.com/ShreyaSankpal/pathnova-career-compass)
+
+### 🎧 [Spotify Clone](https://github.com/ShreyaSankpal/Spotify-Clone-)
+
+A Spotify-inspired web interface built to practise frontend development, page layouts, and styling.
+
+**Tech:** `HTML` · `CSS`
+
+[GitHub Repository](https://github.com/ShreyaSankpal/Spotify-Clone-)
+
+### 💳 [ZENPAY — Smart Payments](https://github.com/Poojasharma472/zenpay)
+
+A team project exploring a UPI-first payments experience focused on smarter spending, budgeting, and transaction protection.
+
+**Team:** Hacksmith
+
+[Live Demo](https://zenpay-gamma.vercel.app/) · [GitHub Repository](https://github.com/Poojasharma472/zenpay)
 
 ---
 
@@ -73,9 +75,11 @@ A team project exploring UPI payments, smarter budgeting, spending insights, and
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=ShreyaSankpal&show_icons=true&hide_border=true&theme=transparent&title_color=3fb950&icon_color=3fb950" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShreyaSankpal&show_icons=true&hide_border=true&theme=transparent&title_color=818CF8&icon_color=818CF8" alt="GitHub statistics" />
 
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaSankpal&layout=compact&hide_border=true&theme=transparent&title_color=3fb950" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaSankpal&layout=compact&hide_border=true&theme=transparent&title_color=818CF8" alt="Most-used languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyaSankpal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 
 </div>
 
@@ -83,8 +87,14 @@ A team project exploring UPI payments, smarter budgeting, spending insights, and
 
 ## 🤝 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-ShreyaSankpal-181717?style=flat-square&logo=github)](https://github.com/ShreyaSankpal)
+<div align="center">
 
-*Building through experimentation. Growing through engineering.*
+[![GitHub](https://img.shields.io/badge/GitHub-ShreyaSankpal-181717?style=for-the-badge&logo=github)](https://github.com/ShreyaSankpal)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:12372a&height=85&section=footer)
+[![Repositories](https://img.shields.io/badge/Explore_My_Projects-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShreyaSankpal?tab=repositories)
+
+*Learn continuously. Build thoughtfully. Improve with every project.*
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:4F46E5&height=90&section=footer)
