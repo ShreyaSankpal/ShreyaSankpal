@@ -1,12 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:102a24,100:0d1117&height=150&section=header&text=Shreya%20Sankpal&fontSize=38&fontColor=3fb950&fontAlignY=45&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:102a24,100:0d1117&height=150&section=header&text=Shreya%20Sankpal&fontSize=38&fontColor=3fb950&animation=fadeIn)
 
 <div align="center">
 
 `$ whoami`
 
-**Computer Engineering Student · Developer · Builder**
+### Computer Engineering Student | Software Development | AI
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=3FB950&center=true&vCenter=true&width=500&lines=building+things%2C+learning+as+I+go;turning+ideas+into+working+projects;one+commit+at+a+time" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=3FB950&center=true&vCenter=true&width=500&lines=learning+by+building;turning+ideas+into+projects;building+software+that+solves+real+problems" alt="Typing animation" />
 
 </div>
 
@@ -18,14 +18,14 @@
 $ cat about.txt
 ```
 
-Hey, I'm Shreya — a Computer Engineering student who enjoys figuring out how things work and turning ideas into actual projects.
+I'm a Computer Engineering student interested in software development, AI, and building products that solve real-world problems.
 
-Currently building software, exploring AI-powered applications, and learning by getting my hands dirty with code.
+I enjoy learning by building projects, experimenting with new technologies, and turning ideas into working applications.
 
 ```text
-[+] Interested in software engineering and AI
-[+] Learning through hands-on projects
-[+] Always looking for the next thing to build
+[+] Exploring software engineering and AI
+[+] Building projects to strengthen my skills
+[+] Interested in internships and collaborative projects
 ```
 
 ---
@@ -33,12 +33,12 @@ Currently building software, exploring AI-powered applications, and learning by 
 ### `~/projects`
 
 ```bash
-$ ls -la ./projects
+$ ls ./projects
 ```
 
 **01 — [Steora](https://github.com/ShreyaSankpal/Steora)**
 
-An AI-powered travel planner focused on practical itineraries, budgets, routes, and adapting when plans change.
+An AI-powered travel planning platform designed to help users plan trips around their preferences, budgets, accommodation options, and travel routes. It also explores adapting itineraries when plans or constraints change.
 
 `Next.js` · `TypeScript` · `AI`
 
@@ -46,9 +46,9 @@ An AI-powered travel planner focused on practical itineraries, budgets, routes, 
 
 ---
 
-**02 — [PathNova](https://github.com/ShreyaSankpal/pathnova-career-compass)**
+**02 — [PathNova — Career Compass](https://github.com/ShreyaSankpal/pathnova-career-compass)**
 
-An AI-powered career discovery platform helping students explore career options, understand skill gaps, and build personalized roadmaps.
+An AI-powered career discovery platform that helps students explore career paths, understand skill gaps, and find personalized learning and career roadmaps.
 
 `React` · `TypeScript` · `Supabase`
 
@@ -58,7 +58,7 @@ An AI-powered career discovery platform helping students explore career options,
 
 **03 — [Spotify Clone](https://github.com/ShreyaSankpal/Spotify-Clone-)**
 
-A Spotify-inspired frontend project built to practise web layouts, styling, and interface development.
+A Spotify-inspired web interface built to practise frontend development, page layouts, and styling with HTML and CSS.
 
 `HTML` · `CSS`
 
@@ -68,9 +68,9 @@ A Spotify-inspired frontend project built to practise web layouts, styling, and 
 
 **04 — [ZENPAY](https://github.com/Poojasharma472/zenpay)**
 
-A team project exploring smarter digital payments through budgeting features and transaction protection.
+A team project developed with Hacksmith that explores a UPI-first payments experience with smart budgeting and transaction-protection features.
 
-`Team Hacksmith`
+`Team Project` · `FinTech`
 
 [Live Demo](https://zenpay-gamma.vercel.app/) · [Source Code](https://github.com/Poojasharma472/zenpay)
 
@@ -80,15 +80,13 @@ A team project exploring smarter digital payments through budgeting features and
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShreyaSankpal&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&rank_icon=github" height="155" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=ShreyaSankpal&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaSankpal&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" height="155" alt="Most-used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaSankpal&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" height="165" alt="Most-used languages" />
 
 </div>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/ShreyaSankpal/ShreyaSankpal/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 
 <img src="https://komarev.com/ghpvc/?username=ShreyaSankpal&style=flat-square&color=238636&label=profile+visits" alt="Profile visits" />
 
@@ -98,15 +96,6 @@ A team project exploring smarter digital payments through budgeting features and
 
 ### `~/connect`
 
-```bash
-$ git remote -v
-```
-
-[GitHub](https://github.com/ShreyaSankpal) · [Explore my repositories](https://github.com/ShreyaSankpal?tab=repositories)
-
-```text
-$ echo "always building."
-always building._
-```
+[GitHub Profile](https://github.com/ShreyaSankpal) · [All Repositories](https://github.com/ShreyaSankpal?tab=repositories)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:102a24,100:0d1117&height=100&section=footer)
