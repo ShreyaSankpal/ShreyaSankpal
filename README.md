@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3500&pause=1500&color=3FB950&center=true&vCenter=true&width=600&lines=Building+projects+that+solve+real+problems;Exploring+AI+and+software+development;Learning+by+building+real+applications" alt="Typing animation" />
 
-<img src="https://komarev.com/ghpvc/?username=ShreyaSankpal&style=flat-square&color=238636&label=PROFILE+VIEWS" alt="Profile views" />
-
 </div>
 
 ---
