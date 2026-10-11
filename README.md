@@ -1,12 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:4F46E5&height=160&section=header&text=Shreya%20Sankpal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:238636&height=160&section=header&text=Shreya%20Sankpal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
 <div align="center">
 
 ### Computer Engineering Student | Software Development | AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3500&pause=1500&color=818CF8&center=true&vCenter=true&width=600&lines=Building+projects+that+solve+real+problems;Exploring+AI+and+software+development;Learning+by+building+real+applications" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3500&pause=1500&color=3FB950&center=true&vCenter=true&width=600&lines=Building+projects+that+solve+real+problems;Exploring+AI+and+software+development;Learning+by+building+real+applications" alt="Typing animation" />
 
-<img src="https://komarev.com/ghpvc/?username=ShreyaSankpal&style=flat-square&color=4F46E5&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ShreyaSankpal&style=flat-square&color=238636&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -75,11 +75,11 @@ A team project exploring a UPI-first payments experience focused on smarter spen
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShreyaSankpal&show_icons=true&hide_border=true&theme=transparent&title_color=818CF8&icon_color=818CF8" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShreyaSankpal&show_icons=true&hide_border=true&theme=transparent&title_color=3FB950&icon_color=3FB950" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaSankpal&layout=compact&hide_border=true&theme=transparent&title_color=818CF8" alt="Most-used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaSankpal&layout=compact&hide_border=true&theme=transparent&title_color=3FB950" alt="Most-used languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyaSankpal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyaSankpal&theme=github-compact&hide_border=true&area=true&color=3FB950&line=3FB950&point=238636" alt="Contribution graph" />
 
 </div>
 
@@ -91,10 +91,10 @@ A team project exploring a UPI-first payments experience focused on smarter spen
 
 [![GitHub](https://img.shields.io/badge/GitHub-ShreyaSankpal-181717?style=for-the-badge&logo=github)](https://github.com/ShreyaSankpal)
 
-[![Repositories](https://img.shields.io/badge/Explore_My_Projects-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShreyaSankpal?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Explore_My_Projects-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShreyaSankpal?tab=repositories)
 
 *Learn continuously. Build thoughtfully. Improve with every project.*
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:4F46E5&height=90&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:238636&height=90&section=footer)
