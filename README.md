@@ -79,8 +79,6 @@ A team project exploring a UPI-first payments experience focused on smarter spen
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaSankpal&layout=compact&hide_border=true&theme=transparent&title_color=3FB950" alt="Most-used languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyaSankpal&theme=github-compact&hide_border=true&area=true&color=3FB950&line=3FB950&point=238636" alt="Contribution graph" />
-
 </div>
 
 ---
