@@ -12,21 +12,11 @@
 
 ## 👋 About Me
 
-I'm a Computer Engineering student interested in building practical software products and AI-powered applications that solve real-world problems. I enjoy turning ideas into functional applications and developing solutions with a focus on usability, reliability, and thoughtful engineering.
+I'm a Computer Engineering student interested in building practical software products and AI-powered applications that solve real-world problems. I enjoy turning ideas into functional applications with a focus on usability, reliability, and thoughtful engineering.
 
 - 💻 **Interests:** Software Engineering, Artificial Intelligence, and Product Development
-- 🚀 **Approach:** Build practical solutions, solve problems, and improve through hands-on development
+- 🎯 **Focus:** Building useful, user-focused technology
 - 🤝 **Open to:** Software development internships and collaborative projects
-
----
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nextjs,tailwind,supabase,git,github,vscode&perline=6" alt="Technologies and tools" />
-
-</div>
 
 ---
 
@@ -38,15 +28,11 @@ I'm a Computer Engineering student interested in building practical software pro
 
 An AI-powered travel planning platform designed to help users create personalized itineraries while considering budgets, travel preferences, routes, and changing constraints.
 
-**Technologies:** `Next.js` · `TypeScript` · `AI` · `APIs`
-
 [Live Demo](https://steora.vercel.app/) · [Source Code](https://github.com/ShreyaSankpal/Steora)
 
 ### 🧭 [PathNova — Career Compass](https://github.com/ShreyaSankpal/pathnova-career-compass)
 
 A career discovery platform designed to help students explore career paths, understand skill requirements, and discover personalized career development roadmaps.
-
-**Technologies:** `React` · `TypeScript` · `Supabase`
 
 [Live Demo](https://pathnova-career-compass.vercel.app/) · [Source Code](https://github.com/ShreyaSankpal/pathnova-career-compass)
 
@@ -61,8 +47,6 @@ A team project exploring a UPI-focused payments experience with smart budgeting,
 ### 🎧 [Spotify Clone](https://github.com/ShreyaSankpal/Spotify-Clone-)
 
 A Spotify-inspired web interface demonstrating frontend fundamentals, page layout, and styling with HTML and CSS.
-
-**Technologies:** `HTML` · `CSS`
 
 [Source Code](https://github.com/ShreyaSankpal/Spotify-Clone-)
 
